@@ -2,4 +2,4 @@ streamlit
 easyocr
 pandas
 tldextract
-openpyxl==3.0.12
+openpyxl
